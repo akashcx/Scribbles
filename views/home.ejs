@@ -1,0 +1,15 @@
+
+<%- include("partials/header"); -%>
+    <img src="/img.jpg" alt="" class="responsive">
+
+  <%  posts.reverse().forEach(function(post){ %>
+
+    <a href="/posts/<%=post._id%>"><h1><%=post.title%></h1></a>
+    <p>
+    <%=post.content.substring(0, 100) + "..."%>
+    </p>
+
+    <% }) %>
+
+
+<%- include("partials/footer"); -%>
