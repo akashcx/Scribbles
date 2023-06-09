@@ -1,4 +1,4 @@
-# Public Blog (HTML, CSS, JavaScript, EJS, Node.js, Express.js, MongoDB, Mongoose)
+# Public Blog 
 
 ## Home Page
 ![blog-1](https://user-images.githubusercontent.com/59217041/213874588-9394dd99-0f32-4327-b6f0-651ef557b0f3.png)
